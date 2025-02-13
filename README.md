@@ -3,7 +3,7 @@ Repositorio para prácticas de Estructuras de Datos
 
 ## Actualización del proyecto
 
-Ayer, 10 de febrero de 2025, se celebró una reunión de equipo que ssistieron:
+Ayer, 10 de febrero de 2025, se celebró una reunión de equipo que asistieron:
 
 - Ethan Winters
 - Leon Kennedy
